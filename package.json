@@ -1,0 +1,41 @@
+{
+  "name": "@react-scroll-animate",
+  "version": "1.0.0",
+  "description": "scroll-animations",
+  "author": "Emmanuel Osayame <emmanuelosayame.com>",
+  "homepage": "https://github.com/biglevvi/react-scroll-animations#readme",
+  "license": "MIT",
+  "main": "react-scroll-animations.jsx",
+  "types": "react-scroll-animations.jsx",
+  "module": "react-scroll-animations.jsx",
+  "sideEffects": false,
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biglevvi/react-scroll-animations.git",
+    "directory": "/"
+  },
+  "bugs": {
+    "url": "https://github.com/biglevvi/react-scroll-animations/issues"
+  },
+  "peerDependencies": {
+    "framer-motion": "^6",
+    "react-intersection-observer": "^9.3.5",
+    "react": ">=18"
+  },
+  "devDependencies": {
+    "framer-motion": "^6",
+    "react-intersection-observer": "^9.3.5",
+    "react": "^18.0.0"
+  },
+  "dependencies": {
+    "framer-motion": "^6",
+    "react-intersection-observer": "^9.3.5",
+    "@types/react": "^18.0.1"
+  }
+}
